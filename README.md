@@ -2,7 +2,7 @@
 
 ## Authors
 
-* Zsofia Karlocai
+* Zsófia Karlócai
 * Anne Kühnel
 * Corinna Schulz
 * Melina Grahlow
@@ -262,7 +262,7 @@ run('path/to/repository/code/fingerprinting.m')
 
 If you use this code or data, please cite:
 
-> Karlocai, Zs., Kühnel, A., Schulz, C., Grahlow, M., Kaduk, K., Frick, A., Derntl, B., & Kroemer, N. B. How reliable is the link between effort and nucleus accumbens connectivity at rest? A psychometric evaluation of repeated assessments. (manuscript submitted)
+> Karlócai, Zs., Kühnel, A., Schulz, C., Grahlow, M., Kaduk, K., Frick, A., Derntl, B., & Kroemer, N. B. How reliable is the link between effort and nucleus accumbens connectivity at rest? A psychometric evaluation of repeated assessments. (manuscript submitted)
 
 \---
 
