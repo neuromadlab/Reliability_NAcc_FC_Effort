@@ -1,0 +1,307 @@
+Effect,ROI_name,Atlas_label,Pearson_r,Valid_voxels
+Intercept,FP r (Frontal Pole Right),1,0.12429922458757,7965
+Intercept,FP l (Frontal Pole Left),2,0.0696426717458102,6848
+Intercept,IC r (Insular Cortex Right),3,0.471718176272917,1344
+Intercept,IC l (Insular Cortex Left),4,0.183325268313041,1334
+Intercept,SFG r (Superior Frontal Gyrus Right),5,0.0459592405743925,2680
+Intercept,SFG l (Superior Frontal Gyrus Left),6,-0.141389535270783,2831
+Intercept,MidFG r (Middle Frontal Gyrus Right),7,0.503615583306835,2740
+Intercept,MidFG l (Middle Frontal Gyrus Left),8,0.348684052240444,2927
+Intercept,"IFG tri r (Inferior Frontal Gyrus, pars triangularis Right)",9,0.00567880116695889,555
+Intercept,"IFG tri l (Inferior Frontal Gyrus, pars triangularis Left)",10,-0.15109157635327,650
+Intercept,"IFG oper r (Inferior Frontal Gyrus, pars opercularis Right)",11,0.803565504808172,686
+Intercept,"IFG oper l (Inferior Frontal Gyrus, pars opercularis Left)",12,0.447682279216721,766
+Intercept,PreCG r (Precentral Gyrus Right),13,0.339545852387398,4275
+Intercept,PreCG l (Precentral Gyrus Left),14,0.209517033088019,4359
+Intercept,TP r (Temporal Pole Right),15,0.0394416374099753,2383
+Intercept,TP l (Temporal Pole Left),16,0.00116876148880192,2366
+Intercept,"aSTG r (Superior Temporal Gyrus, anterior division Right)",17,0.00638808651077684,278
+Intercept,"aSTG l (Superior Temporal Gyrus, anterior division Left)",18,0.0909470371929172,280
+Intercept,"pSTG r (Superior Temporal Gyrus, posterior division Right)",19,-0.0416266561124016,417
+Intercept,"pSTG l (Superior Temporal Gyrus, posterior division Left)",20,0.0690637560089154,392
+Intercept,"aMTG r (Middle Temporal Gyrus, anterior division Right)",21,0.165948851268398,409
+Intercept,"aMTG l (Middle Temporal Gyrus, anterior division Left)",22,-0.0788867895682031,449
+Intercept,"pMTG r (Middle Temporal Gyrus, posterior division Right)",23,-0.143447886009349,1357
+Intercept,"pMTG l (Middle Temporal Gyrus, posterior division Left)",24,-0.00717426018367101,1382
+Intercept,"toMTG r (Middle Temporal Gyrus, temporooccipital part Right)",25,-0.330100870873813,1162
+Intercept,"toMTG l (Middle Temporal Gyrus, temporooccipital part Left)",26,0.0936854382363287,866
+Intercept,"aITG r (Inferior Temporal Gyrus, anterior division Right)",27,0.124369504286442,326
+Intercept,"aITG l (Inferior Temporal Gyrus, anterior division Left)",28,-0.62106173843706,336
+Intercept,"pITG r (Inferior Temporal Gyrus, posterior division Right)",29,0.3097370959363,946
+Intercept,"pITG l (Inferior Temporal Gyrus, posterior division Left)",30,-0.194750761595533,1020
+Intercept,"toITG r (Inferior Temporal Gyrus, temporooccipital part Right)",31,-0.116868262463004,781
+Intercept,"toITG l (Inferior Temporal Gyrus, temporooccipital part Left)",32,-0.155331516712809,698
+Intercept,PostCG r (Postcentral Gyrus Right),33,0.163409226965034,3232
+Intercept,PostCG l (Postcentral Gyrus Left),34,0.080701054140636,3647
+Intercept,SPL r (Superior Parietal Lobule Right),35,0.569730600809316,1476
+Intercept,SPL l (Superior Parietal Lobule Left),36,0.195973107570427,1460
+Intercept,"aSMG r (Supramarginal Gyrus, anterior division Right)",37,-0.134253183518361,801
+Intercept,"aSMG l (Supramarginal Gyrus, anterior division Left)",38,0.283936195771944,953
+Intercept,"pSMG r (Supramarginal Gyrus, posterior division Right)",39,0.00497801392815765,1235
+Intercept,"pSMG l (Supramarginal Gyrus, posterior division Left)",40,0.331580705140207,1059
+Intercept,AG r (Angular Gyrus Right),41,0.142860322024516,1469
+Intercept,AG l (Angular Gyrus Left),42,0.349042554445429,950
+Intercept,"sLOC r (Lateral Occipital Cortex, superior division Right)",43,0.0047763011406396,4805
+Intercept,"sLOC l (Lateral Occipital Cortex, superior division Left)",44,-0.24617233926723,4920
+Intercept,"iLOC r (Lateral Occipital Cortex, inferior division Right)",45,0.0827244212325134,2045
+Intercept,"iLOC l (Lateral Occipital Cortex, inferior division Left)",46,0.222813733573206,2033
+Intercept,ICC r (Intracalcarine Cortex Right),47,0.0123807744089516,752
+Intercept,ICC l (Intracalcarine Cortex Left),48,0.0998088667123619,641
+Intercept,MedFC (Frontal Medial Cortex),49,0.5464586525329,984
+Intercept,SMA r (Juxtapositional Lobule Cortex -formerly Supplementary Motor Cortex- Ri,50,0.550600397787176,714
+Intercept,SMA L(Juxtapositional Lobule Cortex -formerly Supplementary Motor Cortex- Lef,51,0.378955981201616,643
+Intercept,SubCalC (Subcallosal Cortex),52,0.127075788302463,1126
+Intercept,PaCiG r (Paracingulate Gyrus Right),53,0.189214696301485,1361
+Intercept,PaCiG l (Paracingulate Gyrus Left),54,0.041084407111794,1313
+Intercept,"AC (Cingulate Gyrus, anterior division)",55,-0.0931575498378986,2593
+Intercept,"PC (Cingulate Gyrus, posterior division)",56,-0.168926447983943,2397
+Intercept,Precuneous (Precuneous Cortex),57,-0.15927593717957,5611
+Intercept,Cuneal r (Cuneal Cortex Right),58,0.371038499157609,641
+Intercept,Cuneal l (Cuneal Cortex Left),59,-0.297276997954405,519
+Intercept,FOrb r (Frontal Orbital Cortex Right),60,0.28120843045001,1442
+Intercept,FOrb l (Frontal Orbital Cortex Left),61,0.395497693948134,1680
+Intercept,"aPaHC r (Parahippocampal Gyrus, anterior division Right)",62,0.342238291770869,656
+Intercept,"aPaHC l (Parahippocampal Gyrus, anterior division Left)",63,-0.226061420267475,582
+Intercept,"pPaHC r (Parahippocampal Gyrus, posterior division Right)",64,0.497095737020043,319
+Intercept,"pPaHC l (Parahippocampal Gyrus, posterior division Left)",65,-0.0974875980448849,390
+Intercept,LG r (Lingual Gyrus Right),66,0.306220094534302,1732
+Intercept,LG l (Lingual Gyrus Left),67,0.159192580989457,1516
+Intercept,"aTFusC r (Temporal Fusiform Cortex, anterior division Right)",68,-0.318661306806594,292
+Intercept,"aTFusC l (Temporal Fusiform Cortex, anterior division Left)",69,-0.306057709022204,317
+Intercept,"pTFusC r (Temporal Fusiform Cortex, posterior division Right)",70,-0.149409805357657,719
+Intercept,"pTFusC l (Temporal Fusiform Cortex, posterior division Left)",71,0.00246916488875356,860
+Intercept,TOFusC r (Temporal Occipital Fusiform Cortex Right),72,-0.160377434510125,815
+Intercept,TOFusC l (Temporal Occipital Fusiform Cortex Left),73,0.209679733819284,652
+Intercept,OFusG r (Occipital Fusiform Gyrus Right),74,0.257734337917903,888
+Intercept,OFusG l (Occipital Fusiform Gyrus Left),75,0.502987789051611,932
+Intercept,FO r (Frontal Operculum Cortex Right),76,0.489546693992711,313
+Intercept,FO l (Frontal Operculum Cortex Left),77,0.672387324365108,355
+Intercept,CO r (Central Opercular Cortex Right),78,0.315002163286756,877
+Intercept,CO l (Central Opercular Cortex Left),79,0.156398000781292,978
+Intercept,PO r (Parietal Operculum Cortex Right),80,0.419785362190326,538
+Intercept,PO l (Parietal Operculum Cortex Left),81,0.491802765161361,567
+Intercept,PP r (Planum Polare Right),82,0.267068607218157,377
+Intercept,PP l (Planum Polare Left),83,0.0350191658730662,358
+Intercept,HG r (Heschl's Gyrus Right),84,-0.32375620225915003,282
+Intercept,HG l (Heschl's Gyrus Left),85,0.193828067900336,309
+Intercept,PT r (Planum Temporale Right),86,0.107103842976242,440
+Intercept,PT l (Planum Temporale Left),87,-0.0357831732714903,565
+Intercept,SCC r (Supracalcarine Cortex Right),88,-0.412738491621173,143
+Intercept,SCC l (Supracalcarine Cortex Left),89,-0.0791608971834047,73
+Intercept,OP r (Occipital Pole Right),90,0.287693232510426,2452
+Intercept,OP l (Occipital Pole Left),91,0.324512630149138,2591
+Intercept,Thalamus r,92,0.125722839185487,1263
+Intercept,Thalamus l,93,0.0643364986432419,1355
+Intercept,Caudate r,94,0.0753680242529502,521
+Intercept,Caudate l,95,-0.131463205369635,535
+Intercept,Putamen r,96,0.186257686946018,804
+Intercept,Putamen l,97,-0.0486972305820325,867
+Intercept,Pallidum r,98,-0.204250348828807,269
+Intercept,Pallidum l,99,0.472337242922368,302
+Intercept,Hippocampus r,100,-0.0419191635745926,698
+Intercept,Hippocampus l,101,0.273093025109232,761
+Intercept,Amygdala r,102,0.33736113256086,342
+Intercept,Amygdala l,103,0.054355324112604,327
+Intercept,Accumbens r,104,0.796076790709757,82
+Intercept,Accumbens l,105,0.394669762859731,106
+Intercept,Brain-Stem,106,-0.0128736024418702,3985
+Intercept,Cereb1 l (Cerebelum Crus1 Left),107,0.376626464752685,2205
+Intercept,Cereb1 r (Cerebelum Crus1 Right),108,0.0184327074416063,2358
+Intercept,Cereb2 l (Cerebelum Crus2 Left),109,-0.0139284001115001,1873
+Intercept,Cereb2 r (Cerebelum Crus2 Right),110,0.0952560727824441,1967
+Intercept,Cereb3 l (Cerebelum 3 Left),111,0.477139808192113,132
+Intercept,Cereb3 r (Cerebelum 3 Right),112,0.00484204200681923,182
+Intercept,Cereb45 l (Cerebelum 4 5 Left),113,0.374342739621234,897
+Intercept,Cereb45 r (Cerebelum 4 5 Right),114,0.151913080914691,612
+Intercept,Cereb6 l (Cerebelum 6 Left),115,0.209837707140179,1287
+Intercept,Cereb6 r (Cerebelum 6 Right),116,0.320594080557084,1532
+Intercept,Cereb7 l (Cerebelum 7b Left),117,0.256605082195812,507
+Intercept,Cereb7 r (Cerebelum 7b Right),118,-0.0754161429740816,495
+Intercept,Cereb8 l (Cerebelum 8 Left),119,0.414060179968533,1834
+Intercept,Cereb8 r (Cerebelum 8 Right),120,-1.477096575926e-4,2228
+Intercept,Cereb9 l (Cerebelum 9 Left),121,-0.109658579195134,854
+Intercept,Cereb9 r (Cerebelum 9 Right),122,-0.205834882303251,790
+Intercept,Cereb10 l (Cerebelum 10 Left),123,0.025531854956058,146
+Intercept,Cereb10 r (Cerebelum 10 Right),124,0.176693474747004,142
+Intercept,Ver12 (Vermis 1 2),125,0.273522836836136,47
+Intercept,Ver3 (Vermis 3),126,0.0695529931334867,230
+Intercept,Ver45 (Vermis 4 5),127,0.324324214442111,624
+Intercept,Ver6 (Vermis 6),128,0.681440055012844,334
+Intercept,Ver7 (Vermis 7),129,0.410588983842098,195
+Intercept,Ver8 (Vermis 8),130,0.406272955297291,240
+Intercept,Ver9 (Vermis 9),131,0.434954541642223,166
+Intercept,Ver10 (Vermis 10),132,0.383458415884459,105
+Intercept,Extended amygdala r,133,0.820506955591216,15
+Intercept,Extended amygdala l,134,0.691951863850695,21
+Intercept,Substantia nigra pars compacta r,135,0.785060697609879,15
+Intercept,Substantia nigra pars compacta l,136,0.602264299004556,19
+Intercept,Nucleus ruber r,137,0.626501522114916,41
+Intercept,Nucleus ruber l,138,0.722564328459994,40
+Intercept,Substantia nigra pars reticularis r,139,0.618700953927303,45
+Intercept,Substantia nigra pars reticularis l,140,0.256532565457814,39
+Intercept,Parabrachial pigmented nucleus r,141,0.701473881475718,17
+Intercept,Parabrachial pigmented nucleus l,142,0.715010970288659,19
+Intercept,Ventral tegmental area r,143,0.733972860913948,7
+Intercept,Ventral tegmental area l,144,0.639488260063941,9
+Intercept,Ventral pallidum r,145,0.6871475714739,14
+Intercept,Ventral pallidum l,146,-0.492952486365371,12
+Intercept,Hypothalamus r,147,0.0581818516227455,105
+Intercept,Hypothalamus l,148,0.103016404865079,90
+Intercept,Mammilary body r,149,-0.387203288031576,11
+Intercept,Mammilary body l,150,0.247896511638358,8
+Intercept,Subthalamic nucleus r,151,0.128691407129262,22
+Intercept,Subthalamic nucleus l,152,0.676770591021346,24
+Intercept,NTS,153,0.378974963185537,147
+Difficulty,FP r (Frontal Pole Right),1,0.344912019562126,7965
+Difficulty,FP l (Frontal Pole Left),2,0.195930737137743,6848
+Difficulty,IC r (Insular Cortex Right),3,0.152222319560887,1344
+Difficulty,IC l (Insular Cortex Left),4,0.141941423744026,1334
+Difficulty,SFG r (Superior Frontal Gyrus Right),5,0.0991785869744937,2680
+Difficulty,SFG l (Superior Frontal Gyrus Left),6,0.00565105861771223,2831
+Difficulty,MidFG r (Middle Frontal Gyrus Right),7,0.488024303535407,2740
+Difficulty,MidFG l (Middle Frontal Gyrus Left),8,0.110639169242142,2927
+Difficulty,"IFG tri r (Inferior Frontal Gyrus, pars triangularis Right)",9,0.190016075044368,555
+Difficulty,"IFG tri l (Inferior Frontal Gyrus, pars triangularis Left)",10,-0.345433905119254,650
+Difficulty,"IFG oper r (Inferior Frontal Gyrus, pars opercularis Right)",11,0.769525870792597,686
+Difficulty,"IFG oper l (Inferior Frontal Gyrus, pars opercularis Left)",12,0.192375341918271,766
+Difficulty,PreCG r (Precentral Gyrus Right),13,0.410145531554536,4275
+Difficulty,PreCG l (Precentral Gyrus Left),14,0.360195919137051,4359
+Difficulty,TP r (Temporal Pole Right),15,0.0689443728894225,2383
+Difficulty,TP l (Temporal Pole Left),16,0.0950002283584701,2366
+Difficulty,"aSTG r (Superior Temporal Gyrus, anterior division Right)",17,-0.415289545178111,278
+Difficulty,"aSTG l (Superior Temporal Gyrus, anterior division Left)",18,0.185941044151042,280
+Difficulty,"pSTG r (Superior Temporal Gyrus, posterior division Right)",19,-0.139413011190555,417
+Difficulty,"pSTG l (Superior Temporal Gyrus, posterior division Left)",20,0.0283321534313225,392
+Difficulty,"aMTG r (Middle Temporal Gyrus, anterior division Right)",21,0.492203726606943,409
+Difficulty,"aMTG l (Middle Temporal Gyrus, anterior division Left)",22,0.214156984927512,449
+Difficulty,"pMTG r (Middle Temporal Gyrus, posterior division Right)",23,0.179246044718452,1357
+Difficulty,"pMTG l (Middle Temporal Gyrus, posterior division Left)",24,0.200413907224123,1382
+Difficulty,"toMTG r (Middle Temporal Gyrus, temporooccipital part Right)",25,0.341406046855702,1162
+Difficulty,"toMTG l (Middle Temporal Gyrus, temporooccipital part Left)",26,-0.16567660820955,866
+Difficulty,"aITG r (Inferior Temporal Gyrus, anterior division Right)",27,0.336570327093495,326
+Difficulty,"aITG l (Inferior Temporal Gyrus, anterior division Left)",28,0.20898064975404201,336
+Difficulty,"pITG r (Inferior Temporal Gyrus, posterior division Right)",29,0.00425800864470145,946
+Difficulty,"pITG l (Inferior Temporal Gyrus, posterior division Left)",30,0.34512040025306,1020
+Difficulty,"toITG r (Inferior Temporal Gyrus, temporooccipital part Right)",31,0.0800187748515432,781
+Difficulty,"toITG l (Inferior Temporal Gyrus, temporooccipital part Left)",32,-0.131315692139536,698
+Difficulty,PostCG r (Postcentral Gyrus Right),33,0.394954828197359,3232
+Difficulty,PostCG l (Postcentral Gyrus Left),34,0.222698052395715,3647
+Difficulty,SPL r (Superior Parietal Lobule Right),35,0.198680115857831,1476
+Difficulty,SPL l (Superior Parietal Lobule Left),36,0.169115775568838,1460
+Difficulty,"aSMG r (Supramarginal Gyrus, anterior division Right)",37,-0.317916358162096,801
+Difficulty,"aSMG l (Supramarginal Gyrus, anterior division Left)",38,-0.103642907676348,953
+Difficulty,"pSMG r (Supramarginal Gyrus, posterior division Right)",39,-0.00589189662258283,1235
+Difficulty,"pSMG l (Supramarginal Gyrus, posterior division Left)",40,0.0651550373183339,1059
+Difficulty,AG r (Angular Gyrus Right),41,0.388710223426441,1469
+Difficulty,AG l (Angular Gyrus Left),42,0.426470918831825,950
+Difficulty,"sLOC r (Lateral Occipital Cortex, superior division Right)",43,0.102743017142583,4805
+Difficulty,"sLOC l (Lateral Occipital Cortex, superior division Left)",44,0.00142337914098176,4920
+Difficulty,"iLOC r (Lateral Occipital Cortex, inferior division Right)",45,-0.212111436391933,2045
+Difficulty,"iLOC l (Lateral Occipital Cortex, inferior division Left)",46,-0.271682656324626,2033
+Difficulty,ICC r (Intracalcarine Cortex Right),47,0.354946327504784,752
+Difficulty,ICC l (Intracalcarine Cortex Left),48,0.276238787839705,641
+Difficulty,MedFC (Frontal Medial Cortex),49,0.547077433812425,984
+Difficulty,SMA r (Juxtapositional Lobule Cortex -formerly Supplementary Motor Cortex- Ri,50,0.18994619300708,714
+Difficulty,SMA L(Juxtapositional Lobule Cortex -formerly Supplementary Motor Cortex- Lef,51,0.0287627316316131,643
+Difficulty,SubCalC (Subcallosal Cortex),52,0.62355108772896,1126
+Difficulty,PaCiG r (Paracingulate Gyrus Right),53,0.376737367093925,1361
+Difficulty,PaCiG l (Paracingulate Gyrus Left),54,0.480822646876077,1313
+Difficulty,"AC (Cingulate Gyrus, anterior division)",55,-0.0123069996626334,2593
+Difficulty,"PC (Cingulate Gyrus, posterior division)",56,0.489141025577977,2397
+Difficulty,Precuneous (Precuneous Cortex),57,0.236475248882554,5611
+Difficulty,Cuneal r (Cuneal Cortex Right),58,0.227685633317628,641
+Difficulty,Cuneal l (Cuneal Cortex Left),59,-0.00444612357340037,519
+Difficulty,FOrb r (Frontal Orbital Cortex Right),60,0.404159921243993,1442
+Difficulty,FOrb l (Frontal Orbital Cortex Left),61,0.489831338851696,1680
+Difficulty,"aPaHC r (Parahippocampal Gyrus, anterior division Right)",62,0.365954797846127,656
+Difficulty,"aPaHC l (Parahippocampal Gyrus, anterior division Left)",63,0.108731697220366,582
+Difficulty,"pPaHC r (Parahippocampal Gyrus, posterior division Right)",64,0.0679601114220451,319
+Difficulty,"pPaHC l (Parahippocampal Gyrus, posterior division Left)",65,0.52131810384275,390
+Difficulty,LG r (Lingual Gyrus Right),66,0.285443524201009,1732
+Difficulty,LG l (Lingual Gyrus Left),67,0.144932804567334,1516
+Difficulty,"aTFusC r (Temporal Fusiform Cortex, anterior division Right)",68,-0.177846927901156,292
+Difficulty,"aTFusC l (Temporal Fusiform Cortex, anterior division Left)",69,0.189909897780795,317
+Difficulty,"pTFusC r (Temporal Fusiform Cortex, posterior division Right)",70,0.0639217670563598,719
+Difficulty,"pTFusC l (Temporal Fusiform Cortex, posterior division Left)",71,0.125430390215576,860
+Difficulty,TOFusC r (Temporal Occipital Fusiform Cortex Right),72,-0.185808824123202,815
+Difficulty,TOFusC l (Temporal Occipital Fusiform Cortex Left),73,0.230535819745167,652
+Difficulty,OFusG r (Occipital Fusiform Gyrus Right),74,0.294036469752436,888
+Difficulty,OFusG l (Occipital Fusiform Gyrus Left),75,0.307066729827189,932
+Difficulty,FO r (Frontal Operculum Cortex Right),76,0.155381485484346,313
+Difficulty,FO l (Frontal Operculum Cortex Left),77,0.0842771963117433,355
+Difficulty,CO r (Central Opercular Cortex Right),78,0.187069486599607,877
+Difficulty,CO l (Central Opercular Cortex Left),79,0.215846337073216,978
+Difficulty,PO r (Parietal Operculum Cortex Right),80,-0.261295621436241,538
+Difficulty,PO l (Parietal Operculum Cortex Left),81,0.0648710912202207,567
+Difficulty,PP r (Planum Polare Right),82,0.488560380712303,377
+Difficulty,PP l (Planum Polare Left),83,0.250340853211656,358
+Difficulty,HG r (Heschl's Gyrus Right),84,-0.125312891967021,282
+Difficulty,HG l (Heschl's Gyrus Left),85,0.197182080899345,309
+Difficulty,PT r (Planum Temporale Right),86,0.433947548638444,440
+Difficulty,PT l (Planum Temporale Left),87,-0.380659832987704,565
+Difficulty,SCC r (Supracalcarine Cortex Right),88,0.328014765265113,143
+Difficulty,SCC l (Supracalcarine Cortex Left),89,0.412506561357175,73
+Difficulty,OP r (Occipital Pole Right),90,-0.309970479167226,2452
+Difficulty,OP l (Occipital Pole Left),91,0.140453605476961,2591
+Difficulty,Thalamus r,92,0.275914216009253,1263
+Difficulty,Thalamus l,93,0.0370643877011804,1355
+Difficulty,Caudate r,94,0.247522839048706,521
+Difficulty,Caudate l,95,0.528283944899636,535
+Difficulty,Putamen r,96,0.281424465946591,804
+Difficulty,Putamen l,97,0.158251603603589,867
+Difficulty,Pallidum r,98,-0.490722090114677,269
+Difficulty,Pallidum l,99,-0.19258164195415,302
+Difficulty,Hippocampus r,100,0.326952634192574,698
+Difficulty,Hippocampus l,101,0.334868980838145,761
+Difficulty,Amygdala r,102,-0.0632066834612327,342
+Difficulty,Amygdala l,103,-0.391051622990265,327
+Difficulty,Accumbens r,104,-0.521107422708214,82
+Difficulty,Accumbens l,105,-0.143008494751401,106
+Difficulty,Brain-Stem,106,0.0237835566197414,3985
+Difficulty,Cereb1 l (Cerebelum Crus1 Left),107,0.299755244979616,2205
+Difficulty,Cereb1 r (Cerebelum Crus1 Right),108,0.244866278905555,2358
+Difficulty,Cereb2 l (Cerebelum Crus2 Left),109,0.518219290639325,1873
+Difficulty,Cereb2 r (Cerebelum Crus2 Right),110,0.289197277821404,1967
+Difficulty,Cereb3 l (Cerebelum 3 Left),111,0.378398268695643,132
+Difficulty,Cereb3 r (Cerebelum 3 Right),112,0.417431907166205,182
+Difficulty,Cereb45 l (Cerebelum 4 5 Left),113,-0.0599479968022905,897
+Difficulty,Cereb45 r (Cerebelum 4 5 Right),114,0.206985610356897,612
+Difficulty,Cereb6 l (Cerebelum 6 Left),115,-0.362312834804537,1287
+Difficulty,Cereb6 r (Cerebelum 6 Right),116,-0.411070813538586,1532
+Difficulty,Cereb7 l (Cerebelum 7b Left),117,0.403957090463547,507
+Difficulty,Cereb7 r (Cerebelum 7b Right),118,0.0236451601505122,495
+Difficulty,Cereb8 l (Cerebelum 8 Left),119,0.107531978267995,1834
+Difficulty,Cereb8 r (Cerebelum 8 Right),120,0.165728242254154,2228
+Difficulty,Cereb9 l (Cerebelum 9 Left),121,-0.0225909510377621,854
+Difficulty,Cereb9 r (Cerebelum 9 Right),122,-0.145069264184741,790
+Difficulty,Cereb10 l (Cerebelum 10 Left),123,0.357436854919844,146
+Difficulty,Cereb10 r (Cerebelum 10 Right),124,-0.110306013685655,142
+Difficulty,Ver12 (Vermis 1 2),125,0.766913685922225,47
+Difficulty,Ver3 (Vermis 3),126,0.449239381185758,230
+Difficulty,Ver45 (Vermis 4 5),127,0.0828162392974907,624
+Difficulty,Ver6 (Vermis 6),128,0.350489065632837,334
+Difficulty,Ver7 (Vermis 7),129,-0.362252321226324,195
+Difficulty,Ver8 (Vermis 8),130,0.456540961983502,240
+Difficulty,Ver9 (Vermis 9),131,0.0509636126747912,166
+Difficulty,Ver10 (Vermis 10),132,-0.274265186168231,105
+Difficulty,Extended amygdala r,133,-0.45124026610308,15
+Difficulty,Extended amygdala l,134,0.518180090884627,21
+Difficulty,Substantia nigra pars compacta r,135,0.656579648608772,15
+Difficulty,Substantia nigra pars compacta l,136,-0.223542612596752,19
+Difficulty,Nucleus ruber r,137,-0.347223156612048,41
+Difficulty,Nucleus ruber l,138,-0.496289684234416,40
+Difficulty,Substantia nigra pars reticularis r,139,0.520505999064605,45
+Difficulty,Substantia nigra pars reticularis l,140,-0.00840274252658797,39
+Difficulty,Parabrachial pigmented nucleus r,141,0.00348016072550536,17
+Difficulty,Parabrachial pigmented nucleus l,142,-0.169931249171891,19
+Difficulty,Ventral tegmental area r,143,0.56414897229533,7
+Difficulty,Ventral tegmental area l,144,-0.543912079176753,9
+Difficulty,Ventral pallidum r,145,0.23339364215756,14
+Difficulty,Ventral pallidum l,146,-0.770342341062709,12
+Difficulty,Hypothalamus r,147,0.0272290962556983,105
+Difficulty,Hypothalamus l,148,0.33301598484412,90
+Difficulty,Mammilary body r,149,0.0411384731293817,11
+Difficulty,Mammilary body l,150,0.357814629384375,8
+Difficulty,Subthalamic nucleus r,151,0.0736114077032105,22
+Difficulty,Subthalamic nucleus l,152,0.534257805823086,24
+Difficulty,NTS,153,0.22687695019006,147
