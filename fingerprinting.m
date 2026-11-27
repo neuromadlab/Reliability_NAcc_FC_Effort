@@ -6,7 +6,7 @@
 %
 % Input:  data/fingerprinting_similarity_matrix.csv
 %         Pearson r between the gray-matter NAcc FC maps of every participant
-%         in S6 (rows) and S7 (columns); participants in the same order.
+%         in S6 (rows) and S7 (columns); participants in the same order
 % Output: output/fingerprinting_results.mat, output/Figure3B/3C_*.png
 %
 % Run the whole file (e.g. run('code/fingerprinting.m')). Requires the Statistics and Machine Learning
