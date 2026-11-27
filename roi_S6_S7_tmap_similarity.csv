@@ -1,4 +1,4 @@
-Effectt,ROI_name,Atlas_label,Pearson_r,Valid_voxels
+Effect,ROI_name,Atlas_label,Pearson_r,Valid_voxels
 Intercept,FP r (Frontal Pole Right),1,0.12429922458757,7965
 Intercept,FP l (Frontal Pole Left),2,0.0696426717458102,6848
 Intercept,IC r (Insular Cortex Right),3,0.471718176272917,1344
