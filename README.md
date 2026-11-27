@@ -48,7 +48,6 @@ Participant IDs (`sub-001`, …) are random and consistent across all files. Onl
 * `roi_brain_behavior_partial_r.csv` – per atlas ROI: partial r between NAcc FC and the S1–S5 effort coefficients, ROI NAcc FC reliability (ICC), network
 * `roi_S6_S7_tmap_similarity.csv` – per atlas ROI: correlation of the S6 and S7 T maps of the S1 effort coefficients
 * `fingerprinting_similarity_matrix.csv` – correlation of gray-matter NAcc FC maps between all participants, S6 (rows) × S7 (columns)
-* `group_fc_overlap_S6_S7.csv` – Dice and Jaccard overlap of the S6 and S7 group NAcc FC maps (p < .01 uncorrected; Figure 2B)
 
 Raw and preprocessed MRI data are not shared.
 
