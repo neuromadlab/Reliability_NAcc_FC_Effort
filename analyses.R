@@ -1,4 +1,4 @@
-##############################################################################
+#############################################################################
 # How reliable is the link between effort and nucleus accumbens connectivity
 # at rest? A psychometric evaluation of repeated assessments
 #
